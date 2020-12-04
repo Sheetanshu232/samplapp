@@ -1,1 +1,2 @@
 This is the first line in the file.
+This is the first edited line.
